@@ -1,0 +1,65 @@
+.search-sort {
+  position: -webkit-sticky; /* For Safari support */
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: white;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid #e0e0e0;
+  margin-bottom: 20px;
+}
+
+.search-sort input {
+  margin-right: 10px;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 250px; /* Add width for better input size */
+}
+
+.search-sort button {
+  margin-right: 10px;
+  padding: 8px 15px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s; /* Added transition for hover */
+}
+
+.search-sort button:hover {
+  background-color: #45a049;
+  transform: scale(1.05); /* Add subtle scale effect on hover */
+}
+
+.search-sort button.active {
+  background-color: #ff9800; /* Highlight the active sort button */
+}
+
+.search-sort button.active.asc::after {
+  content: ' ⬆️'; /* Up arrow for ascending order */
+}
+
+.search-sort button.active.desc::after {
+  content: ' ⬇️'; /* Down arrow for descending order */
+}
+
+@media (max-width: 768px) {
+  .search-sort {
+    flex-direction: column; /* Stack elements on smaller screens */
+    align-items: flex-start;
+  }
+
+  .search-sort input, .search-sort button {
+    margin-bottom: 10px;
+  }
+
+  .search-sort button {
+    width: 100%;
+  }
+}

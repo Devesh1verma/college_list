@@ -1,0 +1,2365 @@
+[
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": true,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": true,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": true,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+
+    
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  },
+  {
+    "name": "IIT Madras 1",
+    "location": "Chennai",
+    "fees": 209550,
+    "placement": 2190000,
+    "reviews": 8.6,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png"
+  },
+  {
+    "name": "IIT Delhi 1",
+    "location": "New Delhi",
+    "fees": 245450,
+    "placement": 2529000,
+    "reviews": 8.7,
+    "ranking": 1,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+  },
+  {
+    "name": "Parul University 1",
+    "location": "Vadodara",
+    "fees": 149000,
+    "placement": 409000,
+    "reviews": 8.2,
+    "ranking": 99,
+    "featured": true,
+    "logo": "https://logowik.com/content/uploads/images/parul-university3698.jpg"
+  },
+  {
+    "name": "IIT Bombay 1",
+    "location": "Mumbai",
+    "fees": 229300,
+    "placement": 2182000,
+    "reviews": 8.8,
+    "ranking": 2,
+    "featured": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+  }
+]
+

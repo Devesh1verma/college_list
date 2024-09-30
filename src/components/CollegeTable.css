@@ -1,0 +1,48 @@
+/* Ensure the table container is scrollable on small screens */
+.table-container {
+  overflow-x: auto;
+  margin-bottom: 20px;
+}
+
+/* Define the full width for the table */
+.college-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Style for table headers */
+.college-table th, .college-table td {
+  border: 2px solid #efebeb;
+  padding: 12px;
+  text-align: left;
+}
+
+/* Header background with a uniform color */
+.college-table th {
+  background-color: #0eadad;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+/* Highlight rows on hover */
+.college-table tbody tr.highlight {
+  background-color: #ffefc6;
+}
+
+/* Highlight adjacent rows */
+.college-table tbody tr.highlight-adjacent {
+  background-color: #fff7da;
+}
+
+/* Improve general table look */
+.college-table tbody tr {
+  transition: background-color 0.3s ease;
+}
+
+/* Ensure table has proper spacing on smaller screens */
+@media (max-width: 768px) {
+  .college-table th, .college-table td {
+    padding: 10px;
+  }
+}
